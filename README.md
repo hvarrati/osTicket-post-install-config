@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 
-![image](https://github.com/hvarrati/post-install-config/assets/1)
+![image](https://imgur.com/8kDdWn4)
 
 </p>
 <p>
@@ -38,7 +38,7 @@ In this image, I configured Roles, Departments, and Teams to begin our workflow.
 
 <p>
 
-![image](https://github.com/hvarrati/post-install-config/assets/137100082/2)
+![image](https://imgur.com/6sSSlP0)
 
 </p>
 <p>
@@ -52,8 +52,7 @@ In this portion, I reviewed and configured the SLA expectation by using the tier
 
 <p>
 
-![image](https://github.com/hvarrati/post-install-config/assets/137100082/4)
-  
+![image](https://imgur.com/kGgjM9o)  
 </p>
 <p>
 Finally, I updated the Help topics to ensure we had a baseline to help users with FAQ. These topics are the following: 
