@@ -38,7 +38,7 @@ In this image, I configured Roles, Departments, and Teams to begin our workflow.
 
 <p>
 
-<img src="https://imgur.com/8kDdWn4" alt="osTicket logo"/>
+<img src="https://imgur.com/8kDdWn4.png" alt="image"/>
 
 </p>
 <p>
