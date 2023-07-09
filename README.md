@@ -52,7 +52,7 @@ In this portion, I reviewed and configured the SLA expectation by using the tier
 
 <p>
 
-<img src="https://imgur.com/8kDdWn4.png" alt="image"/>
+<img src="https://i.imgur.com/kGgjM9o.png" alt="image"/>
 
 </p>
 <p>
