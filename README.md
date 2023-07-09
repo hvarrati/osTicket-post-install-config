@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 
-![image](https://github.com/hvarrati/post-intstall-config/1.png)
+![image](https://github.com/hvarrati/post-intstall-config/1)
 
 </p>
 <p>
